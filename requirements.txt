@@ -2,5 +2,5 @@ flask
 flask-cors
 numpy
 opencv-python-headless
-tensorflow==2.13.0  # o la versión que estés usando
+tensorflow==2.18.0  # o la versión que estés usando
 matplotlib
