@@ -1,0 +1,13 @@
+aguacate_Antracnosis
+cafe_Roya
+chayote_Vejiga
+fresa_MohoGris
+guanabana_Antracnosis
+guayaba_Rona
+lima_Antracnosis
+limon_Antracnosis
+mandarina_MalSecco
+mango_Antracnosis
+manzana_Moteado
+nispero_Moteado
+papa_Verticilosis
